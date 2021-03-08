@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: 213000745}
   - component: {fileID: 213000744}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1203,7 +1203,7 @@ GameObject:
   - component: {fileID: 1195490236}
   - component: {fileID: 1195490235}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: nationX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1535,7 +1535,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1533997593}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 725.6, y: -1.7, z: 464.4}
+  m_LocalPosition: {x: 715.1, y: -1.7, z: 464.4}
   m_LocalScale: {x: 72.40016, y: 9.0661, z: 72.93228}
   m_Children: []
   m_Father: {fileID: 0}
